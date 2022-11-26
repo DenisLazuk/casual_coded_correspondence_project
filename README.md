@@ -14,6 +14,10 @@ Jupyter Notebook
 ```
 Python standard built-in
 ```
+### External links:
+```
+https://www.codecademy.com/paths/data-analyst/tracks/dsf-python-fundamentals-for-data-science-part-ii/modules/dsf-python-strings/projects/coded-correspondence-project
+```
 
 ## How to use ##
 1. Follow the instructions in the file
